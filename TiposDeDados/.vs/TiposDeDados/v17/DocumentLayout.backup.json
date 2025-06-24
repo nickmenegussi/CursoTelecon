@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Maximiliano\\Desktop\\CursoTelecon\\TiposDeDados\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10FD8E7F-15B4-4CD3-8FC8-3BACBA69D9C0}|TiposDeDados\\TiposDeDados.csproj|c:\\users\\maximiliano\\desktop\\cursotelecon\\tiposdedados\\tiposdedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FD8E7F-15B4-4CD3-8FC8-3BACBA69D9C0}|TiposDeDados\\TiposDeDados.csproj|solutionrelative:tiposdedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maximiliano\\Desktop\\CursoTelecon\\TiposDeDados\\TiposDeDados\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados\\Program.cs",
+              "ToolTip": "C:\\Users\\Maximiliano\\Desktop\\CursoTelecon\\TiposDeDados\\TiposDeDados\\Program.cs*",
+              "RelativeToolTip": "TiposDeDados\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:53:44.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
