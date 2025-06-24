@@ -1,0 +1,14 @@
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\bin\Debug\net9.0\TiposDeDados.exe
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\bin\Debug\net9.0\TiposDeDados.deps.json
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\bin\Debug\net9.0\TiposDeDados.runtimeconfig.json
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\bin\Debug\net9.0\TiposDeDados.dll
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\bin\Debug\net9.0\TiposDeDados.pdb
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\obj\Debug\net9.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\obj\Debug\net9.0\TiposDeDados.AssemblyInfoInputs.cache
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\obj\Debug\net9.0\TiposDeDados.AssemblyInfo.cs
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\obj\Debug\net9.0\TiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\obj\Debug\net9.0\TiposDeDados.dll
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\obj\Debug\net9.0\refint\TiposDeDados.dll
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\obj\Debug\net9.0\TiposDeDados.pdb
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\obj\Debug\net9.0\TiposDeDados.genruntimeconfig.cache
+C:\Users\Maximiliano\Desktop\CursoTelecon\TiposDeDados\TiposDeDados\obj\Debug\net9.0\ref\TiposDeDados.dll
